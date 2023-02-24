@@ -26,5 +26,5 @@ export default defineConfig({
       transformMixedEsModules: true,
     }
   },
-  base: "/tdsdlanding/"
+  base: "/"
 })
